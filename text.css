@@ -1,0 +1,58 @@
+   #Login
+{
+   height: 700px; 
+   width: 100%;
+   /* background-color: sienna; */
+   align-items: center;
+   text-align: center;
+   font-size: 50px;
+   font-family: jokerman;
+   text-emphasis-color: red;
+   text-shadow: 2px;
+}
+#uname
+{
+height: 50px;
+width: 350px;
+font-family: joker;
+font-size: x-large;
+background-color: honeydew;
+font-family: cursive;
+
+
+
+}
+
+h1{
+    text-align: center;
+    font-family: Arial Black;
+    font-size: xx-large;
+    background-color: darkgoldenrod;
+}
+#pas{
+    height: 50px;
+    width: 350px;
+    font-family: joker;
+    font-size: x-large;
+    background-color: honeydew;
+    font-family: cursive;
+    box-shadow: 0px 0px 2px 2px yellow;
+    
+      
+
+}
+#submit{
+    height: 50px;
+    width: 350px;
+    font-family: joker;
+    font-size: x-large;
+    background-color:red;
+    font-family: cursive;
+    box-shadow: 0px 0px 2px 2px rgb(214, 214, 12);  
+}
+body{
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    image height: 800px;
+    image width: 100%;
+}
